@@ -1,1 +1,1 @@
-# aigc
+aitool360.com
